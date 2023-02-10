@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/emdidi/static/css/main.c15a7ab8.css",
-    "main.js": "/emdidi/static/js/main.c1cab8a6.js",
+    "main.js": "/emdidi/static/js/main.5b2a8a4d.js",
     "static/js/787.e6768394.chunk.js": "/emdidi/static/js/787.e6768394.chunk.js",
     "static/media/emdidi.jpg": "/emdidi/static/media/emdidi.078b459b06131c4be28c.jpg",
     "static/media/contact-bg.png": "/emdidi/static/media/contact-bg.d8003ffa8c9bef8c4b9a.png",
@@ -15,11 +15,11 @@
     "static/media/rma1.png": "/emdidi/static/media/rma1.9085cec30f01e78c36e4.png",
     "index.html": "/emdidi/index.html",
     "main.c15a7ab8.css.map": "/emdidi/static/css/main.c15a7ab8.css.map",
-    "main.c1cab8a6.js.map": "/emdidi/static/js/main.c1cab8a6.js.map",
+    "main.5b2a8a4d.js.map": "/emdidi/static/js/main.5b2a8a4d.js.map",
     "787.e6768394.chunk.js.map": "/emdidi/static/js/787.e6768394.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c15a7ab8.css",
-    "static/js/main.c1cab8a6.js"
+    "static/js/main.5b2a8a4d.js"
   ]
 }
