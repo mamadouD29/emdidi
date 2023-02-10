@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.cfb38a80.css",
-    "main.js": "/static/js/main.8a0aeca0.js",
-    "static/js/787.e6768394.chunk.js": "/static/js/787.e6768394.chunk.js",
-    "static/media/emdidi.jpg": "/static/media/emdidi.078b459b06131c4be28c.jpg",
-    "static/media/contact-bg.png": "/static/media/contact-bg.d8003ffa8c9bef8c4b9a.png",
-    "static/media/game1.png": "/static/media/game1.59db1e56154c45650be0.png",
-    "static/media/inter1.png": "/static/media/inter1.8e7bbed7ceb60992f24d.png",
-    "static/media/hero-bg.jpg": "/static/media/hero-bg.d4c202d719b50c8fabe2.jpg",
-    "static/media/portfolio3.jpg": "/static/media/portfolio3.1e45c5b78e58b37048a1.jpg",
-    "static/media/Ibrahiim.png": "/static/media/Ibrahiim.b775efee4523479c4d95.png",
-    "static/media/calc1.png": "/static/media/calc1.790886a594c8825eaef0.png",
-    "static/media/about.jpg": "/static/media/about.90ec8a543db69ae7e949.jpg",
-    "static/media/rma1.png": "/static/media/rma1.9085cec30f01e78c36e4.png",
-    "index.html": "/index.html",
-    "main.cfb38a80.css.map": "/static/css/main.cfb38a80.css.map",
-    "main.8a0aeca0.js.map": "/static/js/main.8a0aeca0.js.map",
-    "787.e6768394.chunk.js.map": "/static/js/787.e6768394.chunk.js.map"
+    "main.css": "/emdidi/static/css/main.c15a7ab8.css",
+    "main.js": "/emdidi/static/js/main.9d914476.js",
+    "static/js/787.e6768394.chunk.js": "/emdidi/static/js/787.e6768394.chunk.js",
+    "static/media/emdidi.jpg": "/emdidi/static/media/emdidi.078b459b06131c4be28c.jpg",
+    "static/media/contact-bg.png": "/emdidi/static/media/contact-bg.d8003ffa8c9bef8c4b9a.png",
+    "static/media/game1.png": "/emdidi/static/media/game1.59db1e56154c45650be0.png",
+    "static/media/inter1.png": "/emdidi/static/media/inter1.8e7bbed7ceb60992f24d.png",
+    "static/media/hero-bg.jpg": "/emdidi/static/media/hero-bg.d4c202d719b50c8fabe2.jpg",
+    "static/media/portfolio3.jpg": "/emdidi/static/media/portfolio3.1e45c5b78e58b37048a1.jpg",
+    "static/media/Ibrahiim.png": "/emdidi/static/media/Ibrahiim.b775efee4523479c4d95.png",
+    "static/media/calc1.png": "/emdidi/static/media/calc1.790886a594c8825eaef0.png",
+    "static/media/about.jpg": "/emdidi/static/media/about.90ec8a543db69ae7e949.jpg",
+    "static/media/rma1.png": "/emdidi/static/media/rma1.9085cec30f01e78c36e4.png",
+    "index.html": "/emdidi/index.html",
+    "main.c15a7ab8.css.map": "/emdidi/static/css/main.c15a7ab8.css.map",
+    "main.9d914476.js.map": "/emdidi/static/js/main.9d914476.js.map",
+    "787.e6768394.chunk.js.map": "/emdidi/static/js/787.e6768394.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cfb38a80.css",
-    "static/js/main.8a0aeca0.js"
+    "static/css/main.c15a7ab8.css",
+    "static/js/main.9d914476.js"
   ]
 }
