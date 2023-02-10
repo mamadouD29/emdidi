@@ -3,7 +3,7 @@ import Home from "./components/views/Home"
 import About from "./components/views/About"
 import Portfolio from "./components/views/Portfolio"
 import Contact from "./components/views/Contact"
-import NotFound from "./components/views/NotFound";
+// import NotFound from "./components/views/NotFound";
 import {Routes, Route} from "react-router-dom"
 
 import Footer from "./components/partials/Footer"
