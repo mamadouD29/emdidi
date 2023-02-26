@@ -88,7 +88,7 @@ You can read more by <Link to={"https://emdidi92.github.io/dawah.github.io/"}>Cl
                 </div>
                 <div className="d-resume">
                     <div>
-                        <p>I listed some of my portfolio above to give you an idea. However, I would like to advise you to spare a few seconds to check or download my resume for more details.</p>
+                        <p>I listed some of my projects above to give you an idea. However, I would like to advise you to spare a few seconds to check or download my resume for more details.</p>
                     </div>
 
                   <a className="btn btn-dark" href={emdidi} target="_blank" rel="noreferrer"><FaDownload /> RESUME</a>
