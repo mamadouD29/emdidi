@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import emdidiJpg from "../../emdidi.jpg"
 
 // const spnaList = 
@@ -14,6 +14,9 @@ function About(){
         })
     }, 4000)
 
+    useEffect(()=>{
+        document.title = "Emdidi | About"
+    },[])
     
     return(
         <div className="about-container">

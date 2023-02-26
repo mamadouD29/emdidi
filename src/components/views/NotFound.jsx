@@ -1,6 +1,10 @@
+import { useEffect } from "react"
 import {Link} from "react-router-dom"
 
 function NotFound(){
+    useEffect(()=>{
+        document.title = "Emdidi | NotFound"
+    }, [])
     return(
         <div className="not-found">
             <hgroup>

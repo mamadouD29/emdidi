@@ -1,3 +1,4 @@
+import { useEffect } from "react";
 import { BiMap, BiEnvelope, BiMobileAlt, } from "react-icons/bi";
 
 import { BsYoutube, BsLinkedin, BsFacebook, BsGithub } from "react-icons/bs";
@@ -15,6 +16,9 @@ const socMedia = [
 
 
 function Contact(){
+    useEffect(()=>{
+        document.title = "Emdidi | Contact";
+    },[])
     
     return(
 

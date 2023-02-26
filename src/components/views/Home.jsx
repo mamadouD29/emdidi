@@ -1,5 +1,9 @@
+import { useEffect } from "react";
 
 function Home () {
+    useEffect(()=>{
+            document.title = "Emdidi | Home"
+        }, [])
     return (
         <div className="home">  
             <section className="my-name">

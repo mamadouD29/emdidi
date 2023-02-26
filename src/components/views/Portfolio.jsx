@@ -6,8 +6,13 @@ import interPng from "../../p-Icon/inter1.png"
 import ibrahimPng from "../../p-Icon/Ibrahiim.png"
 import {FaDownload} from "react-icons/fa"
 import emdidi from "../../doc/Mamadou_DOUMBIA.pdf"
+import { useEffect } from "react";
 
 function Portfolio(){
+    useEffect(()=>{
+        document.title = "Emdidi | Portfolio"
+    }, [])
+
     return(
         <div>
             <div className="p-wrapper">
