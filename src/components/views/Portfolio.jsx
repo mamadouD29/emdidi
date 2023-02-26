@@ -4,6 +4,8 @@ import calcPng from "../../p-Icon/calc1.png"
 import rmaPng from "../../p-Icon/rma1.png"
 import interPng from "../../p-Icon/inter1.png"
 import ibrahimPng from "../../p-Icon/Ibrahiim.png"
+import {FaDownload} from "react-icons/fa"
+import emdidi from "../../doc/Mamadou_DOUMBIA.pdf"
 
 function Portfolio(){
     return(
@@ -82,8 +84,18 @@ You can read more by <Link to={"https://emdidi92.github.io/dawah.github.io/"}>Cl
                         </article>
                     </section>
 
+            
                 </div>
-               
+                <div className="d-resume">
+                    <div>
+                        <p>I listed some of my skills above to give you an idea. However, I would like to advise you to spare a few seconds to download my resume for more details.</p>
+                    </div>
+
+                    {/* <a class="btn btn-dark" role="button" href="/public/doc/Mamadou_DOUMBIA.pdf" download="Mamadou DOUMBIA"> <FaDownload />  Resume
+                    </a> */}
+
+                  <a className="btn btn-dark" href={emdidi} target="_blank" rel="noreferrer"><FaDownload />RESUME</a>
+                 </div>
             </div>
         </div>
     )

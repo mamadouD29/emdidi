@@ -37,7 +37,8 @@ nav {
   padding: 0 1em;
   position: relative;
   z-index: 99;
-  
+
+  height: 3em;
 }
 
 .site-title {
@@ -384,6 +385,7 @@ nav ul li a:hover {
   overflow: hidden;
   padding: 1em;
   display: flex;
+  flex-direction: column;
   align-items: center;
 }
 
@@ -426,6 +428,12 @@ nav ul li a:hover {
 
 .p-item a {
   text-decoration: none;
+}
+
+
+.d-resume {
+  letter-spacing: 2px;
+  text-align: center;
 }
 
 /* footer section */
