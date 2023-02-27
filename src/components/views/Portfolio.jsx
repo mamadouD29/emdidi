@@ -27,7 +27,7 @@ function Portfolio(){
                                 <figure>
                                     <img src={gamePng} alt="game_image" />
                                 </figure>
-                                <p>Hello, welcome to my game space. There are games that I have designed in my free time and play when needed. You can give a shot at any of the games you find in this section. <Link to={"https://www.emdidi.net/Games/game.html"}>Click here</Link></p>
+                                <p>Hello, welcome to my game space. There are games that I have designed in my free time and play when needed. You can give a shot at any of the games you find in this section. <Link to={"https://mamadoud29.github.io/emdidi.github.io/Games/game.html"}>Click here</Link></p>
                             </section>
                         </article>
                     </section>
