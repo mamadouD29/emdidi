@@ -13,7 +13,7 @@ function App() {
     <>
       <NavBar />
       <div className="container-fluid">
-        <Routes >
+        <Routes>
           <Route path ="/" element={<Home />} />
           <Route path="/emdidi" element={<Home />} />
           <Route path="/about" element={<About />}/>
